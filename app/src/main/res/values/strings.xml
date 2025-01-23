@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="splash_icon">splash_icon</string>
+    <string name="sign_up_icon">sign up icon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register_your_account">Register your Account</string>
+    <string name="name">Name</string>
+    <string name="e_mail_address">E-mail Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="image_opt">image_opt</string>
+    <string name="fb_icon">fb_icon</string>
+    <string name="already_have_an_account_login">Already have an account ? Login</string>
+    <string name="twitter_icon">twitter_icon</string>
+    <string name="google_icon">google_icon</string>
+
+</resources>
