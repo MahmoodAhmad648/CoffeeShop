@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1012784648011:android:9cde3ec288dff368e2a2ce",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.mahmood.coffeeshop"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBZTMTj3VD4nm0GGjipnAWLLDhCMVkkYTM"
+          "current_key":""
         }
       ],
       "services": {
